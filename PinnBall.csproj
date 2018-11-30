@@ -242,7 +242,6 @@
     <Compile Include="Assets\BrightnessRegulator.cs" />
     <Compile Include="Assets\CloudController.cs" />
     <Compile Include="Assets\FripperController.cs" />
-    <Compile Include="Assets\ScoreCounter.cs" />
     <Compile Include="Assets\ScoreManager.cs" />
     <Compile Include="Assets\StarController.cs" />
   </ItemGroup>
