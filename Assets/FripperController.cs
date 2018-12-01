@@ -143,8 +143,12 @@ public class FripperController : MonoBehaviour {
           */
 
 
-
+		if (Input.GetMouseButtonUp(0))
+		{
+			SetAngle(this.defaultAngle);
+		}
         }
+
 
     
 
